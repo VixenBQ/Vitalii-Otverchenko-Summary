@@ -1,0 +1,92 @@
+body {
+  padding: 30px;
+  font-size: 18px;
+  line-height: 155%; /*высота междустрочного интервала*/
+  /*font-family: "PT Sans", "Georgia", "serif", "Arial";*/
+  font-weight: normal; /*толщина шрифта (насыщенность)*/
+  }
+
+
+
+/*    Добавить правило text-align*/
+
+
+time {
+  color: #808080;
+
+}
+
+img {
+border-radius: 50%;
+}
+
+h1 {
+  font-family: "Calibri";
+  font-size: 45px;
+  line-height: normal;
+  font-weight: normal;
+}
+
+h2 {
+  color: #0096E3;
+  text-transform: uppercase;
+  font-family: "Yu Gothic UI";
+  font-size: 28px;
+   margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+
+h3 {
+  font-family: "Arial";
+   margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+ h4 {
+ padding: 5px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+ }
+
+.achievement {
+  padding:  0px 0px 0px 0px;
+  margin: 0px 0px 5px 0px;
+}
+
+
+.arial {
+  font-family: "Arial";
+
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+.back {
+  background-image: url("img/1.png")
+}
+
+
+blockquote {
+  padding-left: 14px;
+  border-left: 2px solid #6a2cce;
+
+  color: #6a2cce;
+}
+
+cite {
+  color: #222222;
+}
+
+p {
+	margin: 0;
+
+}
+
+
+/*
+.otstup{
+	margin-bottom: 0
+}
+*/
